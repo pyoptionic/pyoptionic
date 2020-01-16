@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyoptionic/pyoptionic.egg-info/PKG-INFO
+pyoptionic/pyoptionic.egg-info/SOURCES.txt
+pyoptionic/pyoptionic.egg-info/dependency_links.txt
+pyoptionic/pyoptionic.egg-info/top_level.txt
